@@ -10,9 +10,11 @@ namespace HelloWorldConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.Write("Привет,мир!");
-
-            Console.ReadLine(); 
+            Console.Write("Hello");
+            Console.Write("World");             
+            Console.Write("!!!");
+           
+                Console.ReadLine(); 
         }
 
     }
